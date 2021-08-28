@@ -44,3 +44,4 @@ build/
 src/main/gen
 src/main/resources/templates.list
 src/main/resources/gitignore/*
+*.DS_Store
